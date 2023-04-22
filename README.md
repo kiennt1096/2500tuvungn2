@@ -10,6 +10,11 @@
 - Quản lý từ vựng chưa thuộc với Từ ghi nhớ
 - Mở ứng dụng ra là học với Thẻ học nhanh từ ngay màn hình chính
 
+## Download
+
+- Google Play Store: [2500 Từ vựng N2 - Tango N2](https://play.google.com/store/apps/details?id=com.kiennt1096.tuvung_tiengnhatn2_app)
+- App Store: Đang cập nhập 
+
 ## Liên hệ tác giả 
 
 - facebook: [@KienNT1096](https://www.facebook.com/KienNT1096/)
