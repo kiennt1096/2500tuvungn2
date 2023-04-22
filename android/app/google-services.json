@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "991067293032",
+    "project_id": "tangon2app",
+    "storage_bucket": "tangon2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991067293032:android:1cbb844735039d659102dd",
+        "android_client_info": {
+          "package_name": "com.kiennt1096.tangon2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991067293032-h85l1rb5t6470h20ksod8fkhest6tcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnIT0-fPTvxG8472p1XLMN7VtIpAcUTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991067293032-h85l1rb5t6470h20ksod8fkhest6tcao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991067293032-26gkte206stuuo7blf2ql4elloal4i50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiennt1096.tangon2App"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991067293032:android:783df57dae6446fa9102dd",
+        "android_client_info": {
+          "package_name": "com.kiennt1096.tangon2_final_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991067293032-h85l1rb5t6470h20ksod8fkhest6tcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnIT0-fPTvxG8472p1XLMN7VtIpAcUTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991067293032-h85l1rb5t6470h20ksod8fkhest6tcao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991067293032-26gkte206stuuo7blf2ql4elloal4i50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiennt1096.tangon2App"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991067293032:android:a21dc3a43f31fcf59102dd",
+        "android_client_info": {
+          "package_name": "com.kiennt1096.tuvung_tiengnhatn2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991067293032-h85l1rb5t6470h20ksod8fkhest6tcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnIT0-fPTvxG8472p1XLMN7VtIpAcUTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991067293032-h85l1rb5t6470h20ksod8fkhest6tcao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991067293032-26gkte206stuuo7blf2ql4elloal4i50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiennt1096.tangon2App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
